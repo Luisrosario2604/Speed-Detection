@@ -11,7 +11,7 @@ The goal of the project is to detect the speed of an object through three steps:
 - Video support (work with photos / video and camera)
 - Detection of a specific object (via the 3 steps: color detection, shape and finally the center of the object)
 - Object speed detection
-- Minimization of errors and of the cost function (deletion of extravagant data (if there is any)
+- Minimization of errors and the cost function (deletion of extravagant data, if any)
 
 ## Requirements
 
@@ -91,4 +91,3 @@ With the bouncy ball example :
 ## Authors
 
 * **Luis Rosario** - *Member 1* - [Luisrosario](https://github.com/Luisrosario2604)
-
