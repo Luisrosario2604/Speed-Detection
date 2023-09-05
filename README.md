@@ -40,7 +40,7 @@ You can test the color detection with three programs :
 
 If you want to test the color detection thanks to your camera (works with flashy green) :
 
-######Exit with ctrl + C in terminal or "q" key
+###### Exit with ctrl + C in terminal or "q" key
 ```bash
 ./cameraGreenDetection.py
 ```
