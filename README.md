@@ -91,3 +91,4 @@ With the bouncy ball example :
 ## Authors
 
 * **Luis Rosario** - *Member 1* - [Luisrosario](https://github.com/Luisrosario2604)
+* **Matthieu Daugas** - *Member 2* - [MatthieuDaugas](https://github.com/MatthieuDaugas)
